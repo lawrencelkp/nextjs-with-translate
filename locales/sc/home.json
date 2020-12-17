@@ -1,0 +1,4 @@
+{
+    "title": "Nextjs i18n 测试",
+    "today": "今天是 {{today}}"
+}

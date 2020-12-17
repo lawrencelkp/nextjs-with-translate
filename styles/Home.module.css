@@ -1,5 +1,5 @@
 .container {
-  min-height: 100vh;
+  min-height: 80vh;
   padding: 0 0.5rem;
   display: flex;
   flex-direction: column;
@@ -112,6 +112,16 @@
 
 .logo {
   height: 1em;
+}
+
+.lang {
+  width: 300px;
+}
+
+.langSwitcher {
+  display: flex;
+  list-style-type: none;
+  justify-content: space-between;
 }
 
 @media (max-width: 600px) {
